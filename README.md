@@ -7,6 +7,7 @@ A Computer Science Undergraduate at Visayas State University in the Philippines.
 - 📧 How to reach me? Send me an email at cyboryan@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I was once called a Math Whiz before committing myself fully into tech.
+- ⚡ Fun fact # 2: I'm also into graphics, video editing, livestreaming events if I'm bored.
 
 [Website](http://cyboryan.github.io) •
 [LinkedIn](http://www.linkedin.com/in/cyboryan) •
