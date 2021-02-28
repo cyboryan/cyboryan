@@ -9,6 +9,4 @@ A Computer Science Undergraduate at Visayas State University in the Philippines.
 - ⚡ Fun fact: I was once called a Math Whiz before committing myself fully into tech.
 - ⚡ Fun fact # 2: I'm also into graphics, video editing, livestreaming events if I'm bored.
 
-[Website](http://cyboryan.github.io) •
-[LinkedIn](http://www.linkedin.com/in/cyboryan) •
-[Twitter](http://www.twitter.com/cyboryan)
+[Website](http://cyboryan.github.io)
