@@ -2,8 +2,8 @@
 
 A Computer Science Undergraduate at Visayas State University in the Philippines. I'm committed to develop applications that make some work easier on the community through the aid of web development.
 
-- 💻 I'm currently working on a side-project which I'll post soon (if things goes well) ✊
-- 🏫 I'm currently learning the MVC Framework for PHP and Laravel 8 after a semester-long hiatus on web development.
+- 💻 I'm currently working on a side-project which I'll feature on an updated portfolio soon (if things goes well). ✊
+- 🏫 I'm currently learning Laravel 8 after a semester-long hiatus on web development.
 - 📧 How to reach me? Send me an email at cyboryan@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I was once called a Math Whiz before committing myself fully into tech.
